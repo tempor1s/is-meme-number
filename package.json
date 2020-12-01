@@ -1,0 +1,22 @@
+{
+    "name": "is-meme-number",
+    "version": "1.0.2",
+    "description": "This is a npm package that will simply return true if the number is a \"meme\" number.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/tempor1s/is-meme-number.git"
+    },
+    "author": "Ben <me@benl.dev> (https://benl.dev)",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/tempor1s/is-meme-number/issues"
+    },
+    "homepage": "https://github.com/tempor1s/is-meme-number#readme",
+    "dependencies": {
+        "is-number": "^7.0.0"
+    }
+}
